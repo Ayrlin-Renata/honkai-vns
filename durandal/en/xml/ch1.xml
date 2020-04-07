@@ -39,7 +39,7 @@
         <scene id="10" background="gymnasium.jpg">
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <show chara="biankaSportSmileClose" position="right"/>
-            <speak chara="_Durandal">[GT] The average heart rate is 125 ... very good, and the exercise effect is good.</speak>
+            <speak chara="_Durandal">[GT] The average heart rate is 125 ... Very good, and the exercise effect is good.</speak>
             <show chara="biankaSportSmileClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidSmileClose" position="left"/>
             <speak chara="_Rita">[GT] So Bianka-sama, will you have your breakfast?</speak>
@@ -53,12 +53,12 @@
             </remark>
             <show chara="ritaMaidSquintClose" position="left" opacity="0.8"/>
             <show chara="biankaSportSurprisedClose" position="right"/>
-            <speak chara="_Durandal">[GT] Huh? Rita? Why did I suddenly think of doing this kind of fever today?</speak>
+            <speak chara="_Durandal">[GT] Huh? Rita? Why did you suddenly think of doing this kind of favor today?</speak>
             <speak chara="_Durandal">[GT] --and many more.</speak>
             <speak chara="_Durandal">[GT] Just now, you called me ... "Bianka"?</speak>
             <show chara="biankaSportSurprisedClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidNaughtyClose" position="left"/>
-            <speak chara="_Rita">[GT] Fufufu. That's right.</speak>
+            <speak chara="_Rita">[GT] Eh, hehe. That's right.</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
             <speak chara="_Rita">[GT] Because today is a special day worth remembering with a cake.</speak>
             <show chara="ritaMaidSquintClose" position="left" opacity="0.8"/>
