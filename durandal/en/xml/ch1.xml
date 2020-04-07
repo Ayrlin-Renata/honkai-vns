@@ -18,20 +18,20 @@
 	    -->
         <scene id="0" background="dashboard.jpg">
             <bgm src="morning.mp3" status="start"></bgm>
-            <text>It's 5 in the morning.</text>
+            <text>It's five in the morning.</text>
             <text>Inside a large device, a girl fastens her seat belt and turns on the power.</text>
             <text>Above the power button is a badge: a string of Russian letters surrounding a rocket.</text>
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <text>И...Н...Т...Е...Р...К...О...С...М...О...С...</text>
             <text>ИНТЕРКОСМОС (INTERKOSMOS)</text>
-            <text>Nearly half a century ago, with the help of Schicksal, humans had successfully sent several astronauts from different countries to the moon.</text>
+            <text>Nearly half a century ago, with the help of Schicksal, humans successfully sent several astronauts from different countries to the moon.</text>
             <text>This machine is part of the legacy of that glorious era.</text>
             <speak chara="_mechanicalSound">Warm up complete.</speak>
             <speak chara="_mechanicalSound">Current analog magnification，0.2.</speak>
             <speak chara="_mechanicalSound">Starting operation.</speak>
-            <text>[GT] Accompanied by the noise of the smell of oil from the ancient machinery, from the waist of the girl, the air pressurization system began to balance the gravity of the earth for her.</text>
-            <text>[GT] Now, her ankles and knees only need to bear 20% of the weight load-</text>
-            <text>This way, the girl is able to run for dozens of kilometres without risking damaging and tear done to her joints.</text>
+            <text>[GT] Accompanied by a noise and the scent of oil from the ancient machinery, from the waist of the girl, the air pressurization system began to balance the gravity of the earth for her.</text>
+            <text>[GT] Now, her ankles and knees only need to bear 20% of the weight-</text>
+            <text>This way, the girl is able to run for dozens of kilometres without risking damage and stress to her joints.</text>
             <text>The sun rises early.</text>
             <text>Valkyrie Durandal begins a new day of training.</text>
             <goto goto="10" clockwise="1"/>
@@ -39,23 +39,23 @@
         <scene id="10" background="gymnasium.jpg">
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <show chara="biankaSportSmileClose" position="right"/>
-            <speak chara="_Durandal">[GT] The average heart rate is 125 ... Very good, and the exercise effect is good.</speak>
+            <speak chara="_Durandal">[GT] Average heart rate is 125... Very good, and the workout is good too.</speak>
             <show chara="biankaSportSmileClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidSmileClose" position="left"/>
             <speak chara="_Rita">[GT] So Bianka-sama, will you have your breakfast?</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
             <speak chara="_Rita" remark="next">[GT] Today's dessert is freshly baked cheese Napoleon.</speak>
             <remark post="U2FsdGVkX18du3l7nMcHK1ORJgIy">
-                <p class="article-text-h">Note：</p>
+                <p class="article-text-h">Note:</p>
                 <p class="article-text">[GT] Mille-feuille is a type of cake made from three layers of meringue with two layers of cream or jam. The inspiration for its invention may come from a pizza in Naples.</p>
                 <p class="article-text">[GT] Due to the similar spelling of "Napolitain" (the adjective form of "Naples") and "Napoleon" ("Napoleon"), this dessert was nicknamed "Napoleon" in English; Chinese also translated it as "Napoleon Cake".</p>
-                <p class="article-text">[GT] p.s. Due to the relationship between the Russo-French War of 1812, "Napoleon" is one of the most popular cake styles in Russia.</p>
+                <p class="article-text">[GT] P.S. Due to the relationship between the Russo-French War of 1812, "Napoleon" is one of the most popular cake styles in Russia.</p>
             </remark>
             <show chara="ritaMaidSquintClose" position="left" opacity="0.8"/>
             <show chara="biankaSportSurprisedClose" position="right"/>
             <speak chara="_Durandal">[GT] Huh? Rita? Why did you suddenly think of doing this kind of favor today?</speak>
             <speak chara="_Durandal">[GT] --and many more.</speak>
-            <speak chara="_Durandal">[GT] Just now, you called me ... "Bianka"?</speak>
+            <speak chara="_Durandal">[GT] Just now, you called me... "Bianka"?</speak>
             <show chara="biankaSportSurprisedClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidNaughtyClose" position="left"/>
             <speak chara="_Rita">[GT] Eh, hehe. That's right.</speak>
@@ -63,13 +63,13 @@
             <speak chara="_Rita">[GT] Because today is a special day worth remembering with a cake.</speak>
             <show chara="ritaMaidSquintClose" position="left" opacity="0.8"/>
             <show chara="biankaSportSurprisedClose" position="right"/>
-            <speak chara="_Durandal">[GT] Nowadays? February 28 ... No, 29?</speak>
+            <speak chara="_Durandal">[GT] Today? February 28 ... No, 29?</speak>
             <speak chara="_Durandal">[GT] What.</speak>
             <show chara="biankaSportHesitateClose" position="right"/>
             <speak chara="_Durandal">……</speak>
             <speak chara="_Durandal">[GT] Has it been four years?</speak>
             <show chara="biankaSportSmileClose" position="right"/>
-            <speak chara="_Durandal">[GT] It's good to know you ... or rather to know them.</speak>
+            <speak chara="_Durandal">[GT] It's good to know you... Or rather, to know them.</speak>
             <show chara="biankaSportHesitateClose" position="right"/>
             <speak chara="_Durandal">[GT] ……Even if I myself have become accustomed to the name "Durandal".</speak>
             <speak chara="_Durandal">[GT] ……</speak>
@@ -85,11 +85,11 @@
         </scene>
         <scene id="20" background="libraryDay.jpg">
             <bgm src="peerGynt.mp3" status="continue"></bgm>
-            <text>In the valkyrie archives of Schicksal, a stack of now yellowed paper lay quietly.</text> <!-- zklm -->
+            <text>In the archives of Schicksal, a stack of now yellowed paper lay quietly.</text> <!-- zklm -->
             <text>This declassified document begins with——</text> <!-- zklm -->
             <text>Top secret mission： "LONELY PANTHALASSA" </text>
-            <text>Start time: February 29th 2012</text>
-            <text>Location: ██████████ - The Sea of Quanta  </text>
+            <text>Start date: February 29th 2012</text>
+            <text>Location: ██████████ - The Sea of Quanta</text>
             <text>Target: ██████████</text>
             <text>Members: Bianka "Durandal" Ataegina (12), Rita Rossweisse (16)</text>
             <text>Status: Closed</text>
