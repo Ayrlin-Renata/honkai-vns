@@ -189,13 +189,13 @@
         <character name="Jimmy" color="#93ae75" id="wattSchemingClose" src="12_28_wattSchemingClose.png"/>
         <character name="Jimmy" color="#93ae75" id="wattJihuatongClose" src="12_28_wattJihuatongClose.png"/>
         <character name="Jimmy" color="#93ae75" id="wattSadClose" src="02_02_wattSadClose.png"/>
-        <character name="Leila" color="#bc7db4" id="_Lalla" src=""/>
-        <character name="Leila" color="#bc7db4" id="lallaSighClose" src="11_15_lallaSighClose.png"/>
-        <character name="Leila" color="#bc7db4" id="lallaNormalClose" src="11_15_lallaNormalClose.png"/>
-        <character name="Leila" color="#bc7db4" id="lallaSmileClose" src="11_15_lallaSmileClose.png"/>
-        <character name="Leila" color="#bc7db4" id="lallaQuestionClose" src="11_15_lallaQuestionClose.png"/>
-        <character name="Leila" color="#bc7db4" id="lallaSeriousClose" src="11_29_lallaSeriousClose.png"/>
-        <character name="Red-haired Woman" color="#d25242" id="_ShakespeareNoName" src=""/>
+        <character name="Lalla" color="#bc7db4" id="_Lalla" src=""/>
+        <character name="Lalla" color="#bc7db4" id="lallaSighClose" src="11_15_lallaSighClose.png"/>
+        <character name="Lalla" color="#bc7db4" id="lallaNormalClose" src="11_15_lallaNormalClose.png"/>
+        <character name="Lalla" color="#bc7db4" id="lallaSmileClose" src="11_15_lallaSmileClose.png"/>
+        <character name="Lalla" color="#bc7db4" id="lallaQuestionClose" src="11_15_lallaQuestionClose.png"/>
+        <character name="Lalla" color="#bc7db4" id="lallaSeriousClose" src="11_29_lallaSeriousClose.png"/>
+        <character name="Red-Haired Woman" color="#d25242" id="_ShakespeareNoName" src=""/>
         <character name="“Barbarossa”" color="#d25242" id="_ShakespeareBarbarossa" src=""/>
         <character name="Shakespeare" color="#d25242" id="_Shakespeare" src=""/>
         <character name="??? (Shakespeare)" color="#d25242" id="_ShakespeareVeniceNoName" src=""/>
