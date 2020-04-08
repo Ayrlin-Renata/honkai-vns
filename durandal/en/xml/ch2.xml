@@ -173,7 +173,7 @@
         </scene>
         <scene id="100" background="CG2-3.jpg">
             <bgm src="11_15_shakespeareTheme.mp3" status="continue"></bgm>
-            <speak chara="_ShakespeareNoName">20th century... Or perhaps 21st——</speak>
+            <speak chara="_ShakespeareNoName">ᴳᵀ People of the 20th century... Or perhaps 21st——</speak>
             <speak chara="_ShakespeareNoName">Welcome aboard the Caledonia!</speak>
             <speak chara="_ShakespeareNoName">Captain "Barbarossa" welcomes you on behalf of the entire crew!</speak>
             <goto goto="110" change="0"/>
@@ -319,37 +319,37 @@
             <speak chara="_Rita">...?</speak>
             <show chara="ironWhiteClose" position="left" opacity="0.8"/>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">[GT] What you said is true, my dear first officer!</speak>
+            <speak chara="_Shakespeare">ᴳᵀ What you said is true, my dear first officer!</speak>
             <show chara="shakesLaughClose" position="right"/>
             <speak chara="_Shakespeare">Ahahahaha!</speak>
             <show chara="shakesLaughClose" position="right" opacity="0.8"/>
             <show chara="ironRedClose" position="left"/>
-            <speak chara="_Ironface">[GT] ……Director of theater, you're sick.</speak>
+            <speak chara="_Ironface">ᴳᵀ ……Director of theater, you're sick.</speak>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">[GT] Hey!</speak>
-            <speak chara="_Bianka">[GT] What are you trying to hide, red-haired child!?</speak>
+            <speak chara="_Bianka">ᴳᵀ Hey!</speak>
+            <speak chara="_Bianka">ᴳᵀ What are you trying to hide, red-haired child!?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="shakesDisgustedClose" position="right"/>
-            <speak chara="_Shakespeare">[GT] Gee. It's not good to scold others, little sister.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ Gee. It's not good to scold others, little sister.</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">[GT] ...Let me explain.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ ...Let me explain.</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">[GT] At first, I didn't know about this "Schicksal" you spoke of.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ At first, I didn't know about this "Schicksal" you spoke of.</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">[GT] ......What?</speak>
+            <speak chara="_Bianka">ᴳᵀ ......What?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">[GT] ——But "Iron Mask" told me.</speak>
-            <speak chara="_Shakespeare">[GT] She said that some different worlds are abnormally full of a kind of energy called "Honkai".</speak>
+            <speak chara="_Shakespeare">ᴳᵀ ——But "Iron Mask" told me.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ She said that some different worlds are abnormally full of a kind of energy called "Honkai".</speak>
             <show chara="shakesQuestionClose" position="right"/>
-            <speak chara="_Shakespeare">[GT] Um... Almost the feeling of a magic world.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ Um... Almost the feeling of a magic world.</speak>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">[GT] In particular, under the influence of "Honkai", there is a world that monsters are flooding, and it has suffered extremely deep suffering--</speak>
-            <speak chara="_Shakespeare">[GT] ——In the face of these sufferings, the first thing to come forward is an organization named "Schicksal".</speak>
-            <speak chara="_Shakespeare">[GT] Schicksal is unknown and unseen in that world.</speak>
-            <speak chara="_Shakespeare">[GT] It picks super-warriors who can fight monsters from the girls, called "Valkyries".</speak>
-            <speak chara="_Shakespeare">[GT] These "Valkyries" can resist the corruption of the Honkai, and instead use it to fight for humanity.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ In particular, under the influence of "Honkai", there is a world that monsters are flooding, and it has suffered extremely deep suffering--</speak>
+            <speak chara="_Shakespeare">ᴳᵀ ——In the face of these sufferings, the first thing to come forward is an organization named "Schicksal".</speak>
+            <speak chara="_Shakespeare">ᴳᵀ Schicksal is unknown and unseen in that world.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ It picks super-warriors who can fight monsters from the girls, called "Valkyries".</speak>
+            <speak chara="_Shakespeare">ᴳᵀ These "Valkyries" can resist the corruption of the Honkai, and instead use it to fight for humanity.</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">——Self-proclaimed "Valkyries", are those things really true in your world?</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
@@ -508,13 +508,13 @@
             <bgm src="11_16_themeOtto.mp3" status="continue"></bgm>
             <show chara="ottoSuitsKindFar" position="back"/>
             <show chara="memoryLoading" position="center" opacity="0.6"/>
-            <speak chara="_Otto">[GT] In short, your task is to enter the different dimensional plane called the "Sea of Quanta" and explore a special structure called the "Ether Anchor".</speak>
-            <speak chara="_Otto">[GT] To sum it up mathematically, the Sea of Quanta does not belong to the known four-dimensional spacetime, but is a large class of "folding planes" that exist parallel to us;</speak>
-            <speak chara="_Otto" remark="next">[GT] The "Ether Anchor" is a topological transformation between "plane manifolds", and it may be a natural structure or even an artificial machine.</speak>
+            <speak chara="_Otto">ᴳᵀ In short, your task is to enter the different dimensional plane called the "Sea of Quanta" and explore a special structure called the "Ether Anchor".</speak>
+            <speak chara="_Otto">ᴳᵀ To sum it up mathematically, the Sea of Quanta does not belong to the known four-dimensional spacetime, but is a large class of "folding planes" that exist parallel to us;</speak>
+            <speak chara="_Otto" remark="next">ᴳᵀ The "Ether Anchor" is a topological transformation between "plane manifolds", and it may be a natural structure or even an artificial machine.</speak>
             <remark post="U2FsdGVkX18NMIcI27DMkplacYO6">
                 <p class="article-text-h">Note：</p>
-                <p class="article-text">[GT] Manifolds are spaces with local Euclidean properties, and are a generalization of the concepts of curves and surfaces in Euclidean spaces. A general manifold can be formed by "bending" and "sticking" many straight "sheets".</p>
-                <p class="article-text">[GT] Riemann (Bernhard Riemann) was the first mathematician to develop "the work that extends manifolds to higher dimensions". In fact, the term "Manifolds" comes from the German term "Mannigfaltigkeit" in Riemann (the name "manifold" in Chinese comes from Mr. Jiang Zehan's creativity).</p>
+                <p class="article-text">ᴳᵀ Manifolds are spaces with local Euclidean properties, and are a generalization of the concepts of curves and surfaces in Euclidean spaces. A general manifold can be formed by "bending" and "sticking" many straight "sheets".</p>
+                <p class="article-text">ᴳᵀ Riemann (Bernhard Riemann) was the first mathematician to develop "the work that extends manifolds to higher dimensions". In fact, the term "Manifolds" comes from the German term "Mannigfaltigkeit" in Riemann (the name "manifold" in Chinese comes from Mr. Jiang Zehan's creativity).</p>
             </remark>
             <speak chara="_Otto">Unlike the "classic dimension" we live in, the Sea of Quanta is "fragmented" on a large scale——</speak>
             <speak chara="_Otto">Basic physical laws change continuously as the coordinates shift, resulting in the worlds being unstable like soap bubbles——</speak>
