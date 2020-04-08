@@ -13,7 +13,7 @@
             <text>Only its waves and bubbles are allowed to be eternal, swallowing everything into loneliness.</text>
             <text article="1">
                 <p class="article-text">The mysterious submarine that suddenly appeared is now quietly floating above the sea.</p>
-                <p class="article-text">Only the cries of the pitiful "Leviathan" could be heard under the blue sky.</p>
+                <p class="article-text">Only the cries of the pitiful Leviathan could be heard under the blue sky.</p>
             </text>
             <speak chara="_Rita">Are you alright, Bianka-sama?</speak>
             <speak chara="_Bianka">O-Of course I am. I can handle getting wet from head to toe, this is nothing.</speak>
@@ -28,7 +28,7 @@
             <speak chara="_Bianka">What is it? Do you know something, old man?</speak>
             <show chara="cervantesSeriousClose-up" position="center"/>
             <speak chara="_Miguel">...No, not a clue. I've never seen anything like this in my entire life.</speak>
-            <speak chara="_Miguel">A ship made entirely of metal... Tore apart the "Leviathan"'s belly as if it was made of paper. And it can even dive under the sea——</speak>
+            <speak chara="_Miguel">A ship made entirely of metal... Tore apart the Leviathan's belly as if it was made of paper. And it can even dive under the sea——</speak>
             <show chara="cervantesShoutClose-up" position="center"/>
             <speak chara="_Miguel">——Are all ships from 400 years in the future this amazing?</speak>
             <show chara="biancaSighClose-up" position="center"/>
@@ -47,7 +47,7 @@
         </scene>
         <scene id="30" background="CG2-1-2.jpg">
             <bgm src="seaAndSky.mp3" status="continue"></bgm>
-            <speak chara="_Bianka">(Huh? The energy of the Sacred Relic... Hasn't recovered even a single bit?)</speak>
+            <speak chara="_Bianka">(Huh? The energy of the Sacred Relic... Hasn't recovered even a little bit?)</speak>
             <goto goto="40" change="0"/>
         </scene>
         <scene id="40" background="seaWaveIslandNoNameRS.jpg">
@@ -68,9 +68,9 @@
         <scene id="60" background="seaWaveIslandNoName.jpg">
             <bgm src="theme.mp3" status="start"></bgm>
             <text>Four boats left the submarine.</text>
-            <text>Three of them surrounded the "Leviathan" and began to tear it apart；</text>
+            <text>Three of them surrounded the Leviathan and began to tear it apart；</text>
             <text>The remaining boat headed to the small reed boat carrying three people.</text>
-            <text>Bianka felt like her opponent this time weren't "normal" pirates. Because——</text>
+            <text>Bianka felt like her opponents this time weren't "normal" pirates. Because——</text>
             <text>——The boy that seemed to be the leader was panicking to be point it's impossible to believe he could be a pirate.</text>
             <show chara="wattShyClose" position="left"/>
             <speak chara="_WattNoName">H-Hello.</speak>
