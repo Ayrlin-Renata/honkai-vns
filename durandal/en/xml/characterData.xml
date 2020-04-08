@@ -80,8 +80,8 @@
         <character name="Rita" color="#ddcab3" id="ritaVestNaughtyClose-up" src="05_31_ritaVestNaughtyClose-up.png"/>
         <character name="Rita" color="#ddcab3" id="ritaVestTearClose-up" src="06_01_ritaVestTearClose-up.png"/>
         <character name="Girl" color="#ffffff" id="_BiankaNoName" src=""/>
-        <character name="比安卡" color="#ffffff" id="_Bianka" src=""/>
-        <character name="??? (比安卡)" color="#ffffff" id="_BiankaVeniceNoName" src=""/>
+        <character name="Bianka" color="#ffffff" id="_Bianka" src=""/>
+        <character name="??? (Bianka)" color="#ffffff" id="_BiankaVeniceNoName" src=""/>
         <character name="Bassanio" color="#ffffff" id="_BiankaVenice" src=""/>
         <character name="Bassanio (?)" color="#ffffff" id="_BiankaVeniceQ" src=""/>
         <character name="Bassanio (Bianka)" color="#ffffff" id="_BiankaVeniceSelf" src=""/>

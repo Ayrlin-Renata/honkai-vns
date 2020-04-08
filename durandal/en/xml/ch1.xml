@@ -88,8 +88,8 @@
             <text>In the archives of Schicksal, a stack of now yellowed paper lay quietly.</text> <!-- zklm -->
             <text>This declassified document begins with——</text> <!-- zklm -->
             <text>Top secret mission： "LONELY PANTHALASSA" </text>
-            <text>Start date: February 29th 2012</text>
-            <text>Location: ██████████ - The Sea of Quanta</text>
+            <text>Start date: February 29th, 2012</text>
+            <text>Location: ██████████ - Sea of Quanta</text>
             <text>Target: ██████████</text>
             <text>Members: Bianka "Durandal" Ataegina (12), Rita Rossweisse (16)</text>
             <text>Status: Closed</text>
@@ -247,9 +247,9 @@
             <speak chara="_Bianka">ᴳᵀ ……Has "Leviathan" been besieging the island for so long?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">ᴳᵀ Well, maybe even longer. In short, it seemed to have built a nest near here and refused to leave.</speak>
+            <speak chara="_Miguel">ᴳᵀ Well, maybe even longer. In short, it seems to have built a nest near here and refuses to leave.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">ᴳᵀ Ugh. When we arrived here in the first year, we were able to catch a lot of good fish!</speak>
+            <speak chara="_Miguel">ᴳᵀ Ugh. When we arrived here, for the first year, we were able to catch a lot of good fish!</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
             <speak chara="_Rita">ᴳᵀ ……At that time, did you find any other islands around?</speak>
@@ -257,10 +257,10 @@
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_Miguel">ᴳᵀ Well, no.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">ᴳᵀ No other land can be seen here-without sufficient preparation, even Columbus would not dare to set sail lightly.</speak>
+            <speak chara="_Miguel">ᴳᵀ No other land can be seen here - without sufficient preparation, even Columbus would not dare to set sail lightly.</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">ᴳᵀ ……Does it mean fresh water and dry food?</speak>
+            <speak chara="_Bianka">ᴳᵀ ……Because of fresh water and dry food?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">ᴳᵀ Well, those of course are also essential--</speak>
@@ -275,24 +275,24 @@
             <speak chara="_Bianka">……</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">ᴳᵀ However, if we can get rid of "Leviathan", then there must be enough people willing to listen to our dispatch and build large ships.</speak>
+            <speak chara="_Miguel">ᴳᵀ However, if we can get rid of the "Leviathan", then there must be enough people willing to listen to our dispatch and build large ships.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">ᴳᵀ Real or fake?</speak>
+            <speak chara="_Bianka">ᴳᵀ Is this real or fake?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">ᴳᵀ Haha. Humans, aren't we a species that survives by faith?</speak>
             <show chara="cervantesNormalClose" position="right"/>
             <speak chara="_Miguel">ᴳᵀ For example, the Spanish soldiers, when facing the barbarians, why do they often win with fewer soldiers?</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">ᴳᵀ It's not that we are really strong enough to defeat— but we let the enemy feel no hope of winning.</speak>
+            <speak chara="_Miguel">ᴳᵀ It's not that we are really strong enough to defeat them— but we let the enemy feel no hope of winning.</speak>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">ᴳᵀ If not, how could only one or two hundred adventurers conquer Peru with a population of millions?</speak>
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Miguel">ᴳᵀ The battle of Lepanto wins less and less, it is also because everyone impressed the enemy on their feet- not the Venetian warship that relied on it.</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">ᴳᵀ Are you ... from the Spanish Empire?</speak>
+            <speak chara="_Rita">ᴳᵀ Are you ... From the Spanish Empire?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
             <speak chara="_Miguel">ᴳᵀ Oh, Miss is so observant.</speak>
@@ -315,7 +315,7 @@
             <remark post="U2FsdGVkX19Bo9kqC3iZolEItRdA">
                 <p class="article-text-h">Note：</p>
                 <p class="article-text">ᴳᵀ Miguel de Cervantes Saavedra (1547 ~ 1616) is the greatest writer in the Spanish literary world, and even Spanish is called "the language of Cervantes" ". His "Don Quixote" is considered to be the first "modern novel" in the history of literature.</p>
-                <p class="article-text">ᴳᵀ Cervantes participated as an ordinary soldier in the Battle of Lepanto on October 7, 1571. In an official report written eight years later, he wrote: "... In this naval battle, Cervantes had a high fever and his condition was very poor. The company commander and his comrades told him: You are in a bad situation and should be lying in the room of the sailboat. Cervantes accused: What do you say, I have not fulfilled my obligations, rather than fearing the dead ghost, I would rather fight for the sake of God and the king ... In this way, he and his comrades-in-arms, as the company commander ordered, fought against the Turks in this battle. After the battle, General Juan knew his heroic performance and gave him four extra gold coins ... During the battle, he suffered two injuries to his chest and hands, and his left hand was crippled. "</p>
+                <p class="article-text">ᴳᵀ Cervantes participated as an ordinary soldier in the Battle of Lepanto on October 7, 1571. In an official report written eight years later, he wrote: "... In this naval battle, Cervantes had a high fever and his condition was very poor. The company commander and his comrades told him: You are in a bad situation and should be lying in the room of the sailboat. Cervantes accused: What are you saying, I have not fulfilled my obligations, rather than fearing the dead ghost, I would rather fight for the sake of God and the king ... In this way, he and his comrades-in-arms, as the company commander ordered, fought against the Turks in this battle. After the battle, General Juan knew his heroic performance and gave him four extra gold coins ... During the battle, he suffered two injuries to his chest and hands, and his left hand was crippled. "</p>
             </remark>
             <goto goto="60" clockwise="1"/>
         </scene>
