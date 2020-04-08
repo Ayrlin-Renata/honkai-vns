@@ -4,7 +4,7 @@
         <!-- 
 			ORIGINAL TRANSLATION BY: AIATAR
 			EDITED BY: Ayrlin
-			[GT] signifies untranslated text translated by Google Translate, and then possibly edited.
+			ᴳᵀ signifies untranslated text translated by Google Translate, and then possibly edited.
 		
             A young girl is inside the ИНТЕРКОСМОС (INTERKOSMOS), a machine that once helped astronauts get to the Moon nearly half a century ago. 
             By adjusting the gravity settings, she's able to train for longer periods while reducing the damage and tear done to her joints. 
@@ -29,8 +29,8 @@
             <speak chara="_mechanicalSound">Warm up complete.</speak>
             <speak chara="_mechanicalSound">Current analog magnification，0.2.</speak>
             <speak chara="_mechanicalSound">Starting operation.</speak>
-            <text><sub>[GT]</sub> Accompanied by a noise and the scent of oil from the ancient machinery, from the waist of the girl, the air pressurization system began to balance the gravity of the earth for her.</text>
-            <text>[GT] Now, her ankles and knees only need to bear 20% of the weight-</text>
+            <text>ᴳᵀ Accompanied by a noise and the scent of oil from the ancient machinery, from the waist of the girl, the air pressurization system began to balance the gravity of the earth for her.</text>
+            <text>ᴳᵀ Now, her ankles and knees only need to bear 20% of the weight-</text>
             <text>This way, the girl is able to run for dozens of kilometres without risking damage and stress to her joints.</text>
             <text>The sun rises early.</text>
             <text>Valkyrie Durandal begins a new day of training.</text>
@@ -39,48 +39,48 @@
         <scene id="10" background="gymnasium.jpg">
             <bgm src="peerGynt.mp3" status="continue"></bgm>
             <show chara="biankaSportSmileClose" position="right"/>
-            <speak chara="_Durandal">[GT] Average heart rate is 125... Very good, and the workout is good too.</speak>
+            <speak chara="_Durandal">ᴳᵀ Average heart rate is 125... Very good, and the workout is good too.</speak>
             <show chara="biankaSportSmileClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidSmileClose" position="left"/>
-            <speak chara="_Rita">[GT] So Bianka-sama, will you have your breakfast?</speak>
+            <speak chara="_Rita">ᴳᵀ So Bianka-sama, will you have your breakfast?</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
-            <speak chara="_Rita" remark="next">[GT] Today's dessert is freshly baked cheese Napoleon.</speak>
+            <speak chara="_Rita" remark="next">ᴳᵀ Today's dessert is freshly baked cheese Napoleon.</speak>
             <remark post="U2FsdGVkX18du3l7nMcHK1ORJgIy">
                 <p class="article-text-h">Note:</p>
-                <p class="article-text">[GT] Mille-feuille is a type of cake made from three layers of meringue with two layers of cream or jam. The inspiration for its invention may come from a pizza in Naples.</p>
-                <p class="article-text">[GT] Due to the similar spelling of "Napolitain" (the adjective form of "Naples") and "Napoleon" ("Napoleon"), this dessert was nicknamed "Napoleon" in English; Chinese also translated it as "Napoleon Cake".</p>
-                <p class="article-text">[GT] P.S. Due to the relationship between the Russo-French War of 1812, "Napoleon" is one of the most popular cake styles in Russia.</p>
+                <p class="article-text">ᴳᵀ Mille-feuille is a type of cake made from three layers of meringue with two layers of cream or jam. The inspiration for its invention may come from a pizza in Naples.</p>
+                <p class="article-text">ᴳᵀ Due to the similar spelling of "Napolitain" (the adjective form of "Naples") and "Napoleon" ("Napoleon"), this dessert was nicknamed "Napoleon" in English; Chinese also translated it as "Napoleon Cake".</p>
+                <p class="article-text">ᴳᵀ P.S. Due to the relationship between the Russo-French War of 1812, "Napoleon" is one of the most popular cake styles in Russia.</p>
             </remark>
             <show chara="ritaMaidSquintClose" position="left" opacity="0.8"/>
             <show chara="biankaSportSurprisedClose" position="right"/>
-            <speak chara="_Durandal">[GT] Huh? Rita? Why did you suddenly think of doing this kind of favor today?</speak>
-            <speak chara="_Durandal">[GT] --and many more.</speak>
-            <speak chara="_Durandal">[GT] Just now, you called me... "Bianka"?</speak>
+            <speak chara="_Durandal">ᴳᵀ Huh? Rita? Why did you suddenly think of doing this kind of favor today?</speak>
+            <speak chara="_Durandal">ᴳᵀ --and many more.</speak>
+            <speak chara="_Durandal">ᴳᵀ Just now, you called me... "Bianka"?</speak>
             <show chara="biankaSportSurprisedClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidNaughtyClose" position="left"/>
-            <speak chara="_Rita">[GT] Eh, hehe. That's right.</speak>
+            <speak chara="_Rita">ᴳᵀ Eh, hehe. That's right.</speak>
             <show chara="ritaMaidSquintClose" position="left"/>
-            <speak chara="_Rita">[GT] Because today is a special day worth remembering with a cake.</speak>
+            <speak chara="_Rita">ᴳᵀ Because today is a special day worth remembering with a cake.</speak>
             <show chara="ritaMaidSquintClose" position="left" opacity="0.8"/>
             <show chara="biankaSportSurprisedClose" position="right"/>
-            <speak chara="_Durandal">[GT] Today? February 28 ... No, 29?</speak>
-            <speak chara="_Durandal">[GT] What.</speak>
+            <speak chara="_Durandal">ᴳᵀ Today? February 28 ... No, 29?</speak>
+            <speak chara="_Durandal">ᴳᵀ What.</speak>
             <show chara="biankaSportHesitateClose" position="right"/>
             <speak chara="_Durandal">……</speak>
-            <speak chara="_Durandal">[GT] Has it been four years?</speak>
+            <speak chara="_Durandal">ᴳᵀ Has it been four years?</speak>
             <show chara="biankaSportSmileClose" position="right"/>
-            <speak chara="_Durandal">[GT] It's good to know you... Or rather, to know them.</speak>
+            <speak chara="_Durandal">ᴳᵀ It's good to know you... Or rather, to know them.</speak>
             <show chara="biankaSportHesitateClose" position="right"/>
-            <speak chara="_Durandal">[GT] ……Even if I myself have become accustomed to the name "Durandal".</speak>
-            <speak chara="_Durandal">[GT] ……</speak>
+            <speak chara="_Durandal">ᴳᵀ ……Even if I myself have become accustomed to the name "Durandal".</speak>
+            <speak chara="_Durandal">ᴳᵀ ……</speak>
             <show chara="biankaSportHesitateClose" position="right" opacity="0.8"/>
             <show chara="ritaMaidNormalClose" position="left"/>
-            <speak chara="_Rita">[GT] The Overseer will choose the opportunity to implement his plan.</speak>
-            <speak chara="_Rita">[GT] And we will eventually have the opportunity to honor our promises.</speak>
+            <speak chara="_Rita">ᴳᵀ The Overseer will choose the opportunity to implement his plan.</speak>
+            <speak chara="_Rita">ᴳᵀ And we will eventually have the opportunity to honor our promises.</speak>
             <show chara="ritaMaidNormalClose" position="left" opacity="0.8"/>
             <show chara="biankaSportSmileClose" position="right"/>
-            <speak chara="_Durandal">[GT] ……Of course.</speak>
-            <speak chara="_Durandal">[GT] That was the top priority of the girl Bianka.</speak>
+            <speak chara="_Durandal">ᴳᵀ ……Of course.</speak>
+            <speak chara="_Durandal">ᴳᵀ That was the top priority of the girl Bianka.</speak>
             <goto goto="20" change="#ffffff"/>
         </scene>
         <scene id="20" background="libraryDay.jpg">
@@ -234,88 +234,88 @@
         <scene id="50" background="beachIslandNoName.jpg">
             <bgm src="peerGynt.mp3" status="start"></bgm>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">[GT] Oh, the sea, my old friend!</speak>
-            <speak chara="_Miguel">[GT] Thank you for raising your hand so that this moldy old broken ship has not fallen apart today!</speak>
+            <speak chara="_Miguel">ᴳᵀ Oh, the sea, my old friend!</speak>
+            <speak chara="_Miguel">ᴳᵀ Thank you for raising your hand so that this moldy old broken ship has not fallen apart today!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSighClose" position="left"/>
-            <speak chara="_Bianka">[GT] ……What's wrong, suddenly the poems are booming.</speak>
+            <speak chara="_Bianka">ᴳᵀ ……What's wrong, suddenly the poems are booming.</speak>
             <show chara="biankaSighClose" position="left" opacity="0.8"/>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">[GT] Hahaha ... Look, this reed boat has been eating ash for three years, but it is still so strong!</speak>
+            <speak chara="_Miguel">ᴳᵀ Hahaha ... Look, this reed boat has been eating ash for three years, but it is still so strong!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">[GT] ……Has "Leviathan" been besieging the island for so long?</speak>
+            <speak chara="_Bianka">ᴳᵀ ……Has "Leviathan" been besieging the island for so long?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">[GT] Well, maybe even longer. In short, it seemed to have built a nest near here and refused to leave.</speak>
+            <speak chara="_Miguel">ᴳᵀ Well, maybe even longer. In short, it seemed to have built a nest near here and refused to leave.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">[GT] Ugh. When we arrived here in the first year, we were able to catch a lot of good fish!</speak>
+            <speak chara="_Miguel">ᴳᵀ Ugh. When we arrived here in the first year, we were able to catch a lot of good fish!</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">[GT] ……At that time, did you find any other islands around?</speak>
+            <speak chara="_Rita">ᴳᵀ ……At that time, did you find any other islands around?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">[GT] Well, no.</speak>
+            <speak chara="_Miguel">ᴳᵀ Well, no.</speak>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">[GT] No other land can be seen here-without sufficient preparation, even Columbus would not dare to set sail lightly.</speak>
+            <speak chara="_Miguel">ᴳᵀ No other land can be seen here-without sufficient preparation, even Columbus would not dare to set sail lightly.</speak>
             <show chara="cervantesSeriousClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">[GT] ……Does it mean fresh water and dry food?</speak>
+            <speak chara="_Bianka">ᴳᵀ ……Does it mean fresh water and dry food?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">[GT] Well, those of course are also essential--</speak>
+            <speak chara="_Miguel">ᴳᵀ Well, those of course are also essential--</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">[GT] -But the point is that you need a "strong" ship.</speak>
+            <speak chara="_Miguel">ᴳᵀ -But the point is that you need a "strong" ship.</speak>
             <show chara="cervantesShoutClose" position="right"/>
-            <speak chara="_Miguel">[GT] Keel! Spinnakers and square sails! These are the most important.</speak>
+            <speak chara="_Miguel">ᴳᵀ Keel! Spinnakers and square sails! These are the most important.</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">[GT] A boat like this canoe? No way. This is not the calm Pacific.</speak>
+            <speak chara="_Miguel">ᴳᵀ A boat like this canoe? No way. This is not the calm Pacific.</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">……</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">[GT] However, if we can get rid of "Leviathan", then there must be enough people willing to listen to our dispatch and build large ships.</speak>
+            <speak chara="_Miguel">ᴳᵀ However, if we can get rid of "Leviathan", then there must be enough people willing to listen to our dispatch and build large ships.</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaShoutClose" position="left"/>
-            <speak chara="_Bianka">[GT] Real or fake?</speak>
+            <speak chara="_Bianka">ᴳᵀ Real or fake?</speak>
             <show chara="biankaShoutClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">[GT] Haha. Humans, aren't we a species that survives by faith?</speak>
+            <speak chara="_Miguel">ᴳᵀ Haha. Humans, aren't we a species that survives by faith?</speak>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">[GT] For example, the Spanish soldiers, when facing the barbarians, why do they often win with fewer soldiers?</speak>
+            <speak chara="_Miguel">ᴳᵀ For example, the Spanish soldiers, when facing the barbarians, why do they often win with fewer soldiers?</speak>
             <show chara="cervantesGazeClose" position="right"/>
-            <speak chara="_Miguel">[GT] It's not that we are really strong enough to defeat— but we let the enemy feel no hope of winning.</speak>
+            <speak chara="_Miguel">ᴳᵀ It's not that we are really strong enough to defeat— but we let the enemy feel no hope of winning.</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">[GT] If not, how could only one or two hundred adventurers conquer Peru with a population of millions?</speak>
+            <speak chara="_Miguel">ᴳᵀ If not, how could only one or two hundred adventurers conquer Peru with a population of millions?</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">[GT] The battle of Lepanto wins less and less, it is also because everyone impressed the enemy on their feet- not the Venetian warship that relied on it.</speak>
+            <speak chara="_Miguel">ᴳᵀ The battle of Lepanto wins less and less, it is also because everyone impressed the enemy on their feet- not the Venetian warship that relied on it.</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">[GT] Are you ... from the Spanish Empire?</speak>
+            <speak chara="_Rita">ᴳᵀ Are you ... from the Spanish Empire?</speak>
             <show chara="rita17NormalClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">[GT] Oh, Miss is so observant.</speak>
+            <speak chara="_Miguel">ᴳᵀ Oh, Miss is so observant.</speak>
             <show chara="cervantesLaughClose" position="right"/>
-            <speak chara="_Miguel">[GT] This is not bragging - before falling into this different world by accident, I am not only a veteran, but also a cultural person who has published several books!</speak>
+            <speak chara="_Miguel">ᴳᵀ This is not bragging - before falling into this different world by accident, I am not only a veteran, but also a cultural person who has published several books!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">[GT] Huh, listening to your breath, most of them are some unselling self-rewarding works?</speak>
+            <speak chara="_Bianka">ᴳᵀ Huh, listening to your breath, most of them are some unselling self-rewarding works?</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="cervantesSeriousClose" position="right"/>
-            <speak chara="_Miguel">[GT] Um ... I don't know if they are still popular in your four hundred years later.</speak>
+            <speak chara="_Miguel">ᴳᵀ Um ... I don't know if they are still popular in your four hundred years later.</speak>
             <show chara="cervantesNormalClose" position="right"/>
-            <speak chara="_Miguel">[GT] "Galatea", "Birsiles and Sismonda"-</speak>
+            <speak chara="_Miguel">ᴳᵀ "Galatea", "Birsiles and Sismonda"-</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">[GT] -And, "Don Quixote de La Mancha".</speak>
+            <speak chara="_Miguel">ᴳᵀ -And, "Don Quixote de La Mancha".</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="rita17NormalClose" position="left"/>
-            <speak chara="_Rita">[GT] You……</speak>
-            <speak chara="_Rita" remark="next">[GT] Are you ... Cervantes?</speak>
+            <speak chara="_Rita">ᴳᵀ You……</speak>
+            <speak chara="_Rita" remark="next">ᴳᵀ Are you ... Cervantes?</speak>
             <remark post="U2FsdGVkX19Bo9kqC3iZolEItRdA">
                 <p class="article-text-h">Note：</p>
-                <p class="article-text">[GT] Miguel de Cervantes Saavedra (1547 ~ 1616) is the greatest writer in the Spanish literary world, and even Spanish is called "the language of Cervantes" ". His "Don Quixote" is considered to be the first "modern novel" in the history of literature.</p>
-                <p class="article-text">[GT] Cervantes participated as an ordinary soldier in the Battle of Lepanto on October 7, 1571. In an official report written eight years later, he wrote: "... In this naval battle, Cervantes had a high fever and his condition was very poor. The company commander and his comrades told him: You are in a bad situation and should be lying in the room of the sailboat. Cervantes accused: What do you say, I have not fulfilled my obligations, rather than fearing the dead ghost, I would rather fight for the sake of God and the king ... In this way, he and his comrades-in-arms, as the company commander ordered, fought against the Turks in this battle. After the battle, General Juan knew his heroic performance and gave him four extra gold coins ... During the battle, he suffered two injuries to his chest and hands, and his left hand was crippled. "</p>
+                <p class="article-text">ᴳᵀ Miguel de Cervantes Saavedra (1547 ~ 1616) is the greatest writer in the Spanish literary world, and even Spanish is called "the language of Cervantes" ". His "Don Quixote" is considered to be the first "modern novel" in the history of literature.</p>
+                <p class="article-text">ᴳᵀ Cervantes participated as an ordinary soldier in the Battle of Lepanto on October 7, 1571. In an official report written eight years later, he wrote: "... In this naval battle, Cervantes had a high fever and his condition was very poor. The company commander and his comrades told him: You are in a bad situation and should be lying in the room of the sailboat. Cervantes accused: What do you say, I have not fulfilled my obligations, rather than fearing the dead ghost, I would rather fight for the sake of God and the king ... In this way, he and his comrades-in-arms, as the company commander ordered, fought against the Turks in this battle. After the battle, General Juan knew his heroic performance and gave him four extra gold coins ... During the battle, he suffered two injuries to his chest and hands, and his left hand was crippled. "</p>
             </remark>
             <goto goto="60" clockwise="1"/>
         </scene>
@@ -401,13 +401,13 @@
         <scene id="70" background="seaWaveIslandNoName.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <text article="1">
-                <p class="article-text">[GT] Although the perimeter of the island was previously measured on foot, they also observed the vantage point on the rocky mountain; however, it was not until they were in a vast ocean that the two Valkyries really felt the smallness of their "landing" spot.</p>
+                <p class="article-text">ᴳᵀ Although the perimeter of the island was previously measured on foot, they also observed the vantage point on the rocky mountain; however, it was not until they were in a vast ocean that the two Valkyries really felt the smallness of their "landing" spot.</p>
             </text>
             <text article="1">
-                <p class="article-text">[GT] The reed boat only travelled for a quarter of an hour. Behind this, the "refuge", which accommodated dozens of people, had degenerated into an indistinguishable green reef, as if it could be wiped from the sky by raising a hand.</p>
+                <p class="article-text">ᴳᵀ The reed boat only travelled for a quarter of an hour. Behind this, the "refuge", which accommodated dozens of people, had degenerated into an indistinguishable green reef, as if it could be wiped from the sky by raising a hand.</p>
             </text>
-            <text>[GT] The midday sun shone on the surface of the sea, and the sparkling reflections stung people's eyes.</text>
-            <text>[GT] The old man gently shook his long head and stabilized the flat boat among the rolling waves.</text>
+            <text>ᴳᵀ The midday sun shone on the surface of the sea, and the sparkling reflections stung people's eyes.</text>
+            <text>ᴳᵀ The old man gently shook his long head and stabilized the flat boat among the rolling waves.</text>
             <show chara="cervantesGazeClose" position="right"/>
             <speak chara="_Miguel">Careful. He's coming.</speak>
             <show chara="cervantesGazeClose" position="right" opacity="0.8"/>
