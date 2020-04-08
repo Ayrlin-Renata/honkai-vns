@@ -334,7 +334,7 @@
             <speak chara="_Cervantes">It'll make you more motivated once we're out in the sea!</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Hmph. Your concern is unneeded. There hasn't been a single day I haven't given my everything since I've become a Valkyrie at the age of 10.</speak>
+            <speak chara="_Bianka">Hmph. Your concern is unneeded. There hasn't been a single day I haven't given my everything since I've become a Valkyrie at the age of ten.</speak>
             <show chara="biankaProudClose" position="left"/>
             <speak chara="_Bianka">If you teach me how, I'm confident I can learn how to catch fish or steer a ship perfectly.</speak>
             <show chara="rita17SmileClose" position="left"/>
@@ -366,7 +366,7 @@
             <show chara="cervantesLaughClose" position="right"/>
             <speak chara="_Miguel">I'll make use of the currents to not give him the chance to attack us. It's that simple!</speak>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">Oh right, didn't you two show something to the people on the island? A "gun" capable of even destroying boulders—— What was it called again...</speak>
+            <speak chara="_Miguel">Oh right, didn't you two show something to the people on the island? A "gun" capable of destroying even boulders—— What was it called again...</speak>
             <show chara="cervantesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaSeriousClose" position="left"/>
             <speak chara="_Bianka">...The all-purpose firing weapon of the previous civilization, "2nd Sacred Relic". Not a hard name to remember.</speak>
@@ -391,7 +391,7 @@
             <speak chara="_Miguel">Now! Let's kill him!</speak>
             <show chara="cervantesLaughClose" position="right" opacity="0.8"/>
             <show chara="biankaSneerClose" position="left"/>
-            <speak chara="_Bianka">Look closely, old man. This is how a Valkyrie from "Schicksal" fights!</speak>
+            <speak chara="_Bianka">Watch closely, old man. This is how a Schicksal Valkyrie fights!</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="rita17NormalClose" position="right"/>
             <speak chara="_Rita">(....)</speak>
@@ -401,12 +401,12 @@
         <scene id="70" background="seaWaveIslandNoName.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <text article="1">
-                <p class="article-text">ᴳᵀ Although the perimeter of the island was previously measured on foot, they also observed the vantage point on the rocky mountain; however, it was not until they were in a vast ocean that the two Valkyries really felt the smallness of their "landing" spot.</p>
+                <p class="article-text">ᴳᵀ Although the perimeter of the island was previously measured on foot, they also observed the vantage point on the rocky mountain; however, it was not until they were in a vast ocean that the two Valkyries really felt the smallness of their landing spot.</p>
             </text>
             <text article="1">
                 <p class="article-text">ᴳᵀ The reed boat only travelled for a quarter of an hour. Behind this, the "refuge", which accommodated dozens of people, had degenerated into an indistinguishable green reef, as if it could be wiped from the sky by raising a hand.</p>
             </text>
-            <text>ᴳᵀ The midday sun shone on the surface of the sea, and the sparkling reflections stung people's eyes.</text>
+            <text>ᴳᵀ The midday sun shone on the surface of the sea, and the sparkling reflections stung their eyes.</text>  
             <text>ᴳᵀ The old man gently shook his long head and stabilized the flat boat among the rolling waves.</text>
             <show chara="cervantesGazeClose" position="right"/>
             <speak chara="_Miguel">Careful. He's coming.</speak>
@@ -429,7 +429,7 @@
             <speak chara="_Bianka">——So that's why you stopped the ship here!</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="cervantesSmileClose" position="right"/>
-            <speak chara="_Miguel">That's right. The reef 5 meters below the ship protects us from any attack from beneath.</speak>
+            <speak chara="_Miguel">That's right. The reef 5 meters below the ship protects us from any attack from below.</speak>
             <show chara="cervantesGazeClose" position="right"/>
             <speak chara="_Miguel">After all, we're using ourselves as bait—— Being careless can be fatal.</speak>
             <speak chara="_Miguel">And the opportunity to strike will only show itself for an instant——</speak>
