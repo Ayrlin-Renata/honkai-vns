@@ -71,7 +71,7 @@
             <text>Three of them surrounded the Leviathan and began to tear it apart；</text>
             <text>The remaining boat headed to the small reed boat carrying three people.</text>
             <text>Bianka felt like her opponents this time weren't "normal" pirates. Because——</text>
-            <text>——The boy that seemed to be the leader was panicking to be point it's impossible to believe he could be a pirate.</text>
+            <text>——The boy that seemed to be the leader was panicking to the point it's impossible to believe he could be a pirate.</text>
             <show chara="wattShyClose" position="left"/>
             <speak chara="_WattNoName">H-Hello.</speak>
             <show chara="wattShyClose" position="left" opacity="0.8"/>
@@ -141,13 +141,13 @@
             <speak chara="_Bianka">...Where did this ship come from?</speak>
             <show chara="biankaSneerClose" position="left" opacity="0.8"/>
             <show chara="lallaSighClose" position="right"/>
-            <speak chara="_Lalla">Are you... asking me?</speak>
+            <speak chara="_Lalla">Are you asking me?</speak>
             <show chara="lallaSighClose" position="right" opacity="0.8"/>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Who else should I ask? Your pilot doesn't seem to speak well.</speak>
+            <speak chara="_Bianka">Who else should I ask? Your engineer doesn't seem to speak well.</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="lallaSmileClose" position="right"/>
-            <speak chara="_Lalla">Pff.. Jimmy's actually very talkative—— you're just not familiar yet, right?</speak>
+            <speak chara="_Lalla">Pff.. Jimmy's actually very talkative—— You're just not familiar yet, right?</speak>
             <show chara="wattShyClose" position="right"/>
             <speak chara="_Watt">Um.. Well. Yeah, probably.</speak>
             <show chara="wattShyClose" position="right" opacity="0.8"/>
@@ -286,7 +286,7 @@
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaSeriousClose" position="left"/>
-            <speak chara="_Bianka">Understood. I won't press the matter of "Iron Mask"'s identity any further——</speak>
+            <speak chara="_Bianka">Understood. I won't press the matter of Iron Mask's identity any further——</speak>
             <show chara="biankaConfidentClose" position="left"/>
             <speak chara="_Bianka">——You and your crew introduced yourselves, I suppose it's now our turn.</speak>
             <show chara="biankaProudClose" position="left"/>
@@ -340,18 +340,18 @@
             <speak chara="_Bianka">ᴳᵀ ......What?</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">ᴳᵀ ——But "Iron Mask" told me.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ ——But Iron Mask told me.</speak>
             <speak chara="_Shakespeare">ᴳᵀ She said that some different worlds are abnormally full of a kind of energy called "Honkai".</speak>
             <show chara="shakesQuestionClose" position="right"/>
-            <speak chara="_Shakespeare">ᴳᵀ Um... Almost the feeling of a magic world.</speak>
+            <speak chara="_Shakespeare">ᴳᵀ Um... Almost like a magical world.</speak>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">ᴳᵀ In particular, under the influence of "Honkai", there is a world that monsters are flooding, and it has suffered extremely deep suffering--</speak>
-            <speak chara="_Shakespeare">ᴳᵀ ——In the face of these sufferings, the first thing to come forward is an organization named "Schicksal".</speak>
+            <speak chara="_Shakespeare">ᴳᵀ In particular, because of the influence of "Honkai", there is a world flooding with monsters that has suffered extremely deep anguish--</speak>
+            <speak chara="_Shakespeare">ᴳᵀ ——In the face of this adversity, the first thing to come forward is an organization named "Schicksal".</speak>
             <speak chara="_Shakespeare">ᴳᵀ Schicksal is unknown and unseen in that world.</speak>
-            <speak chara="_Shakespeare">ᴳᵀ It picks super-warriors who can fight monsters from the girls, called "Valkyries".</speak>
+            <speak chara="_Shakespeare">ᴳᵀ It picks female warriors who can fight the monsters, called "Valkyries".</speak>
             <speak chara="_Shakespeare">ᴳᵀ These "Valkyries" can resist the corruption of the Honkai, and instead use it to fight for humanity.</speak>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">——Self-proclaimed "Valkyries", are those things really true in your world?</speak>
+            <speak chara="_Shakespeare">——Self-proclaimed "Valkyries", are these things really true in your world?</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
             <show chara="biankaAngryClose" position="left"/>
             <speak chara="_Bianka">.....</speak>
@@ -369,7 +369,7 @@
             <speak chara="_Bianka">..."Advice"?</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="shakesSmileClose" position="right"/>
-            <speak chara="_Shakespeare">Yes. A very simple advice but of the upmost importance.</speak>
+            <speak chara="_Shakespeare">Yes. Very simple advice but of the utmost importance.</speak>
             <show chara="shakesConfidentClose" position="right"/>
             <speak chara="_Shakespeare">Listen—— If you plan to survive in this world, make sure to not waste your ammunition.</speak>
             <show chara="shakesConfidentClose" position="right" opacity="0.8"/>
@@ -430,14 +430,14 @@
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">...Then let's do the following.</speak>
             <show chara="shakesConfidentClose" position="right"/>
-            <speak chara="_Shakespeare">Bianka-san and me, Rita-san and "Iron Mask"——</speak>
+            <speak chara="_Shakespeare">Bianka-san and me, Rita-san and Iron Mask——</speak>
             <speak chara="_Shakespeare">——Each one will fight her respective opponent. Any objections?</speak>
             <goto goto="120" clockwise="1"/>
         </scene>
         <scene id="120" background="beachIslandNoName.jpg">
             <bgm src="seaAndSky.mp3" status="start"></bgm>
             <show chara="biankaBiteClose" position="left"/>
-            <speak chara="_Bianka">Hah...Haa...!</speak>
+            <speak chara="_Bianka">Ha...Haa...!</speak>
             <show chara="biankaBiteClose" position="left" opacity="0.8"/>
             <show chara="rita17HesitateClose" position="right"/>
             <speak chara="_Rita">So strong...</speak>
@@ -456,7 +456,7 @@
             <speak chara="_Bianka">...?</speak>
             <show chara="biankaSeriousClose" position="left" opacity="0.8"/>
             <show chara="shakesColdClose" position="right"/>
-            <speak chara="_Shakespeare">"What's the goal of your exploration?"</speak>
+            <speak chara="_Shakespeare">What's the goal of your exploration?</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">In exchange, I will tell you the reason why the Caledonia sailed.</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
@@ -464,7 +464,7 @@
             <speak chara="_Bianka">.....</speak>
             <show chara="biankaAngryClose" position="left" opacity="0.8"/>
             <show chara="shakesDisgustedClose" position="right"/>
-            <speak chara="_Shakespeare">"No comment"?</speak>
+            <speak chara="_Shakespeare">No comment?</speak>
             <show chara="shakesSmileClose" position="right"/>
             <speak chara="_Shakespeare">Say nothing and you will lose the opportunity to become a passenger on the Caledonia.</speak>
             <show chara="shakesSmileClose" position="right" opacity="0.8"/>
